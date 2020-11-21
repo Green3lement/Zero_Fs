@@ -1,5 +1,5 @@
 Kyle VanSteelandt
-109677339
+
 CSCI 4920 E01
 Final Project
 Zero F's
@@ -13,8 +13,7 @@ Mode:
 Racing
 
 Issues:
-Cannot package a Demo as the UE4 cannot seem to find /Script/Maglev and that script has all the hover components in it.
-Currently trying to find out why the builder cannot find the file as it has never moved and the editor plays just fine....
+Demo has missing materials
 
 Status:
 Currently IN:
