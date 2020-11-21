@@ -1,11 +1,11 @@
 Kyle VanSteelandt
-109677339
+
 CSCI 4920 E01
 Final Project
 Zero F's
 
 Assests Used:
-Maglev Plugin & Samples
+Maglev Plugin & Samples by "WorstPlayer"
 https://drive.google.com/file/d/1DpBf-4rQKmEU4eEcK1OF5EieOcSDoTHR/view  <- Unreal engine 4.21 plugin build + binaries (builds just fine on 4.25.3)
 https://drive.google.com/file/d/0B20tIRBAcOlsR244UXNKR1J3ME0/view  <- Sample project (Track static mesh came from here)
 
@@ -13,8 +13,7 @@ Mode:
 Racing
 
 Issues:
-Cannot package a Demo as the UE4 cannot seem to find /Script/Maglev and that script has all the hover components in it.
-Currently trying to find out why the builder cannot find the file as it has never moved and the editor plays just fine....
+Materials missing from track
 
 Status:
 Currently IN:
@@ -35,12 +34,12 @@ Jumps
 Shortcut
 Ship Damage
 Speed display
+Demo Build
 
 Working on:
 Force Walls
 Better terrain
 Stronger Strafe
-Demo Build
 Ship Destruction
 
 
