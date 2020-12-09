@@ -13,7 +13,7 @@ Mode:
 Racing
 
 Issues:
-Materials missing from track
+Ghost Ship does not respawn if the replay had a flip or falls off the map.
 
 Status:
 Currently IN:
@@ -35,12 +35,13 @@ Shortcut
 Ship Damage
 Speed display
 Demo Build
+Ship Damage
+Ghost Ship
 
 Working on:
 Force Walls
-Better terrain
-Stronger Strafe
-Ship Destruction
+
+
 
 
 How to Play:
