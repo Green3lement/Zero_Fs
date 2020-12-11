@@ -37,17 +37,20 @@ Speed display
 Demo Build
 Ship Damage
 Ghost Ship
-
-Working on:
 Force Walls
+Ghost Ship Opponent Selection
 
-
+Future Updates:
+Wrong way indication
+Ability to select other tracks
+Reset selected ghost slot
 
 
 How to Play:
 
+Select the Ghost Slot you wish to race against by Left Clicking
 Left Click to start the race
-Press R to reset the race times before the race starts
+Press R to reset the race times before the race starts (This does not change the ghost saves!)
 W – Throttle
 A – Turn Left
 S – Brake/Reverse
@@ -55,3 +58,5 @@ D – Turn Right
 E – Strafe Right
 Q – Strafe Left
 Left Shift – Boost
+
+The Player will only save their ghost if they beat the selected ghost.
