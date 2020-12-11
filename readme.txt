@@ -8,6 +8,9 @@ Assests Used:
 Maglev Plugin & Samples by "WorstPlayer"
 https://drive.google.com/file/d/1DpBf-4rQKmEU4eEcK1OF5EieOcSDoTHR/view  <- Unreal engine 4.21 plugin build + binaries (builds just fine on 4.25.3)
 https://drive.google.com/file/d/0B20tIRBAcOlsR244UXNKR1J3ME0/view  <- Sample project (Track static mesh came from here)
+https://freemusicarchive.org/music/Wizwars/Game_Boy_Rock/04_8_Bit_Raceway - Blitz Highway Level music 
+https://freemusicarchive.org/music/Wizwars
+8 Bit Raceway by Wizwars is licensed under a Attribution-Noncommercial-Share Alike 3.0 United States License.
 
 Mode:
 Racing
