@@ -22,6 +22,12 @@ The ship doesnt bounce around in the demo like it does in the editor
 
 [Damage]
 Occasionally large amounts of damage is given to the ship mostly happens when flipped out of bounds
+Rough Terrian will INSTANTLY give 100 + damage if the ship gets stuck on it
+
+[Jump]
+The jump will trigger constantly and get the player stuck at the top
+
+
 
 Status:
 Currently IN:
